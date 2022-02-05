@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/monser-rolodex/static/css/main.5300ebb3.css",
+    "main.js": "/github.io/monser-rolodex/static/js/main.09c5ab4e.js",
+    "static/js/787.4e61ed83.chunk.js": "/github.io/monser-rolodex/static/js/787.4e61ed83.chunk.js",
+    "index.html": "/github.io/monser-rolodex/index.html",
+    "main.5300ebb3.css.map": "/github.io/monser-rolodex/static/css/main.5300ebb3.css.map",
+    "main.09c5ab4e.js.map": "/github.io/monser-rolodex/static/js/main.09c5ab4e.js.map",
+    "787.4e61ed83.chunk.js.map": "/github.io/monser-rolodex/static/js/787.4e61ed83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5300ebb3.css",
+    "static/js/main.09c5ab4e.js"
+  ]
+}
